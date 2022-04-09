@@ -15,7 +15,7 @@ public class PrimerProyectoApplication {
 
 		boolean resEvaluacion = (5 <= 5) && (4 >= 3);
 		System.out.println(resEvaluacion);
-		//ashei2
+		//ashei
 	}
 
 }
